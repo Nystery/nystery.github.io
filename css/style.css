@@ -516,6 +516,10 @@ a:focus, a:hover {
   padding: 0;
 }
 
+.main-nav .navbar-brand img {
+  height: 38px;
+}
+
 .main-nav .navbar-nav .nav-item {
   position: relative;
 }
@@ -557,6 +561,10 @@ a:focus, a:hover {
 
 .footer-main .footer-logo {
   margin-bottom: 15px;
+}
+
+.footer-main .footer-logo img {
+  height: 38px;
 }
 
 .footer-main .copyright p {
